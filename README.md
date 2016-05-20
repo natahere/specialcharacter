@@ -10,3 +10,5 @@ To run the program
 4. The O/P path where image is stored can be changed to your directory.
 
 Images will be generated into the O/P directory.
+
+output file is at www.androidfloor.com/spimages.zip 
